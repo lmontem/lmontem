@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Leandra (she/her)
-- ✔ I’m a front-end development and bartender 🍺🍸
-- 🌱 I’m currently working on my wordpress skills. 
-- 📫 How to reach me https://www.linkedin.com/in/leandra-shelton/
-- 👻 Follow me on twitter @leandracodes
+<h1>- 👋 Hi, I’m Leandra (she/her)</h1>
+<p>- ✔ I’m a front-end development and bartender 🍺🍸</p>
+<p>- 🌱 I’m currently working on my wordpress skills. </p>
+<p>- 📫 How to reach me https://www.linkedin.com/in/leandra-shelton/</p>
+<p>- 👻 Follow me on twitter @leandracodes</p>
 
 
 <!---
